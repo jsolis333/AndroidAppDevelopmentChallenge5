@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fiveRadioButton</string>
+    <string name="tRadio1">You have selected the first RadioButton</string>
+    <string name="tRadio2">You have selected the second RadioButton</string>
+    <string name="tRadio3">You have selected the third RadioButton</string>
+    <string name="tRadio4">You have Selected the fourth RadioButton</string>
+</resources>
